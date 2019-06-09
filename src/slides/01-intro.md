@@ -1,25 +1,69 @@
-# Gatsby Deck
-
-Create presentations using Gatsby & React.
+# JAMStack
 
 ---
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+![Strawberry JAM](./jam.jpg)
 
 ---
 
-# 🤫
+![Jazz JAM](./jazz-jam.jpg)
 
 ---
 
-## Slides are written in Markdown!
+## history of web
 
-Here's the source of the first slide:
+## JAMStack
 
-    # Gatsby Deck
+## real world example
 
-    Create presentations using Gatsby & React.
+---
+
+## Browser - Server
+![](./brain_0.png)
+
+---
+
+## Browser - Server - Program
+![](./brain_1.png)
+
+---
+
+## Browser - Server - Progream - Database
+![](./brain_2.png)
+
+---
+
+## Browser - CDN - Server - Progream - Database
+![](./brain_3.png)
+
+---
+
+## Browser - CDN
+![](./mind_blown.jpg)
+
+---
+
+## J. A. M.
+
+---
+
+## Javascript
+
+---
+
+## API
+
+---
+
+## TODO: API samples
+
+---
+
+## ShopFlamingo.com
+![](./QRcode.png)
+
+---
+
+## Markup
+
+---
