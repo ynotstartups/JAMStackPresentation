@@ -28,12 +28,12 @@
 
 ---
 
-## Browser - Server - Progream - Database
+## Browser - Server - Program - Database
 ![](./brain_2.png)
 
 ---
 
-## Browser - CDN - Server - Progream - Database
+## Browser - CDN - Server - Program - Database
 ![](./brain_3.png)
 
 ---
@@ -55,7 +55,7 @@
 
 ---
 
-## TODO: API samples
+## Markup
 
 ---
 
@@ -64,6 +64,52 @@
 
 ---
 
+## Javascript
+
+---
+
+## API
+
+---
+
 ## Markup
+
+---
+
+## benefits
+![](./tweet.png)
+
+---
+
+## hosting
+![](./hosting.png)
+
+---
+
+## deployment
+![](./deployment.png)
+
+---
+
+## whole system
+![](./whole_system.png)
+
+---
+
+## 💯 SEO
+## 💯 Fast
+## 💯 Simple
+
+---
+
+## Questions?
+
+---
+
+## Extra
+
+https://medium.com/harrys-engineering
+
+https://jamstack.org/
 
 ---
