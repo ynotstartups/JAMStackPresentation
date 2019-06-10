@@ -97,16 +97,10 @@
 ---
 
 ## 💯 SEO
-## 💯 Fast
-## 💯 Simple
 
 ---
 
-## Questions?
-
----
-
-## Extra
+## Reference
 
 https://medium.com/harrys-engineering
 
